@@ -5,7 +5,7 @@ using PathUtilities = R5T.NetStandard.IO.Paths.Utilities;
 
 namespace R5T.Code.VisualStudio.IO
 {
-    public static class Utilities
+    public static class StringUtilities
     {
         public static string GetProjectName(string projectFilePath)
         {
