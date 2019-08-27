@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.NetStandard.IO.Paths.Ty
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.NetStandard.TypedString", "..\..\R5T.NetStandard.TypedString\source\R5T.NetStandard.TypedString\R5T.NetStandard.TypedString.csproj", "{EA84D0D8-03FA-40F1-9EF1-04BD8AB3B9E3}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.NetStandard.Types", "..\..\R5T.NetStandard.Types\source\R5T.NetStandard.Types\R5T.NetStandard.Types.csproj", "{3282B320-B216-4A19-9BFD-CF6A7F201107}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,18 @@ Global
 		{EA84D0D8-03FA-40F1-9EF1-04BD8AB3B9E3}.Release|x64.Build.0 = Release|Any CPU
 		{EA84D0D8-03FA-40F1-9EF1-04BD8AB3B9E3}.Release|x86.ActiveCfg = Release|Any CPU
 		{EA84D0D8-03FA-40F1-9EF1-04BD8AB3B9E3}.Release|x86.Build.0 = Release|Any CPU
+		{3282B320-B216-4A19-9BFD-CF6A7F201107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3282B320-B216-4A19-9BFD-CF6A7F201107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3282B320-B216-4A19-9BFD-CF6A7F201107}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3282B320-B216-4A19-9BFD-CF6A7F201107}.Debug|x64.Build.0 = Debug|Any CPU
+		{3282B320-B216-4A19-9BFD-CF6A7F201107}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3282B320-B216-4A19-9BFD-CF6A7F201107}.Debug|x86.Build.0 = Debug|Any CPU
+		{3282B320-B216-4A19-9BFD-CF6A7F201107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3282B320-B216-4A19-9BFD-CF6A7F201107}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3282B320-B216-4A19-9BFD-CF6A7F201107}.Release|x64.ActiveCfg = Release|Any CPU
+		{3282B320-B216-4A19-9BFD-CF6A7F201107}.Release|x64.Build.0 = Release|Any CPU
+		{3282B320-B216-4A19-9BFD-CF6A7F201107}.Release|x86.ActiveCfg = Release|Any CPU
+		{3282B320-B216-4A19-9BFD-CF6A7F201107}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -92,6 +106,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{21FF3E44-3C76-4ADB-BEAB-226CB1357A2F} = {CC07C5C9-6583-451D-A802-DBDA6E093837}
 		{EA84D0D8-03FA-40F1-9EF1-04BD8AB3B9E3} = {CC07C5C9-6583-451D-A802-DBDA6E093837}
+		{3282B320-B216-4A19-9BFD-CF6A7F201107} = {CC07C5C9-6583-451D-A802-DBDA6E093837}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B7080334-6DBE-4D47-A4C9-35F81D6A71A7}
